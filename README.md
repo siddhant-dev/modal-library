@@ -1,5 +1,11 @@
 # ModalLibrary
 
+![GitHub repo size](https://img.shields.io/github/repo-size/siddhant-dev/modal-library)
+![GitHub contributors](https://img.shields.io/github/contributors/siddhant-dev/modal-library)
+![GitHub stars](https://img.shields.io/github/stars/siddhant-dev/modal-library?style=social)
+![GitHub forks](https://img.shields.io/github/forks/siddhant-dev/modal-library?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/IamSidd_J?style=social)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
